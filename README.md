@@ -1,12 +1,11 @@
 # 📊 Amazon Sales Performance Dashboard
 ## 🔍 Project Overview
-This project presents an interactive Power BI dashboard built to analyze Amazon sales data and generate meaningful business insights.
+This project presents an interactive Power BI dashboard built to analyze Amazon sales data and generate meaningful business insights.  
 
-The dataset includes 2 years of sales data (Jan 2022 – Dec 2023), enabling trend analysis, performance comparison, and better decision-making.
+The dataset includes 2 years of sales data (Jan 2022 – Dec 2023), enabling trend analysis, performance comparison, and better decision-making.  
 
-The dashboard is divided into:
-
-- __Executive Sales Overview__  
+The dashboard is divided into:    
+- __Executive Sales Overview__
 - __Product & Pricing Insights__
 
 ## 🎯 Objectives
