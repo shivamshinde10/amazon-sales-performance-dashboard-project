@@ -58,7 +58,6 @@ __2️⃣ Product & Pricing Insights__
 ## 🛠️ Tools & Technologies  
 - Power BI Desktop    
 - DAX (Data Analysis Expressions)  
-- Data Cleaning & Transformation
 - Data Modeling (Star Schema)  
 
 ## 📸 Dashboard Preview  
