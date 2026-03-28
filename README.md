@@ -74,9 +74,12 @@ __2️⃣ Product & Pricing Insights__
 <img width="1185" height="665" alt="product-pricing-insights" src="https://github.com/user-attachments/assets/26e7e11c-1fd6-47a9-aacd-9545ec9e3545" />  
 
 
-## 🚀 Key Insights (Executive Overview)  
+## 🚀 Key Insights  
 - Revenue remained stable with slight fluctuations across months  
 - Fashion emerged as the top-performing category with the highest revenue contribution    
 - Revenue contribution is evenly distributed across regions  
 - Majority of revenue comes from lower-rated products, indicating scope for quality improvement
-- Higher revenue categories have higher discounts, showing a direct relationship  
+- Higher revenue categories have higher discounts, showing a direct relationship
+
+## 🤝 Connect with Me  
+I’m always open to feedback and suggestions
